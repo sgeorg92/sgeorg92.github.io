@@ -1,14 +1,19 @@
 ---
-title: "Personal Website"
+title: "About me"
 ---
+```{r out.width="50%",echo=FALSE}
+knitr::include_graphics("image.png")
+```
 
-Welcome! I am a PhD candidate in Economics at the University of Pennsylvania. 
+
+**Welcome!** I am a PhD candidate in Economics at the University of Pennsylvania. 
 My research focuses on the economics in the market for IPv4 addresses and transition to the next technology.  
 
-Keywords:
+**Keywords**:
 Industrial organization, asset pricing,  technology adoption
 
-Contact Information:
+**Contact Information**:
 sgeorg [at] sas.upenn.edu
 +1 (301)-531-0163
+
 
