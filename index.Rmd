@@ -6,7 +6,8 @@ knitr::include_graphics("image.png")
 ```
 
 
-**Welcome!** I am a PhD candidate in Economics at the University of Pennsylvania. 
+**Welcome!**
+I am a PhD candidate in Economics at the University of Pennsylvania. 
 My research focuses on the economics in the market for IPv4 addresses and transition to the next technology.  
 
 **Keywords**:

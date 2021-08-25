@@ -1,3 +1,13 @@
 ---
 title: "cv"
 ---
+
+
+You can find my CV 
+
+<!-- ```{r echo=False} -->
+<!-- library(xfun) -->
+<!-- here=embed_file("sarah_george_resume.pdf") -->
+<!-- here -->
+<!-- ``` -->
+

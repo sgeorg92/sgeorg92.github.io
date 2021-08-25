@@ -2,3 +2,6 @@
 title: "Research"
 ---
 
+**Working papers**
+
+"Price and frictions in the market for IPv4 addresses" - **Job Market Paper**
