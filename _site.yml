@@ -4,8 +4,6 @@ navbar:
    left:
     - text: "Sarah George"
       href: index.html
-    - text: "Research"
-      href: about.html
     - text: "Teaching"
       href: teaching.html
     - text: "CV"
