@@ -3,12 +3,4 @@ title: "cv"
 ---
 
 
-You can find my CV 
-
-<!-- ```{r echo=False} -->
-<!-- library(xfun) -->
-<!-- here=embed_file("sarah_george_resume.pdf") -->
-<!-- here -->
-<!-- ``` -->
-
-<img src="sarah_geroge_resume.pdf" style="width:50%">
+You can find my CV [here](https://github.com/sgeorg92/sgeorg92.github.io/Sarah_George_Resume.pdf)
