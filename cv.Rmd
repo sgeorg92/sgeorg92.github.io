@@ -11,3 +11,4 @@ You can find my CV
 <!-- here -->
 <!-- ``` -->
 
+<img src="sarah_geroge_resume.pdf" style="width:50%">
