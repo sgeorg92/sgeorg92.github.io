@@ -14,8 +14,6 @@ My research focuses on the economics in the market for IPv4 addresses and transi
 Industrial organization, asset pricing,  technology adoption
 
 
-**Working papers**
-
 **Job Market Paper**
 
 "Price and frictions in the market for IPv4 addresses"

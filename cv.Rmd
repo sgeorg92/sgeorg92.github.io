@@ -3,4 +3,4 @@ title: "cv"
 ---
 
 
-You can find my CV [here](https://github.com/sgeorg92/sgeorg92.github.io/Sarah_George_Resume.pdf)
+You can find my CV [here](Sarah_George_Resume.pdf)
