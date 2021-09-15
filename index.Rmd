@@ -11,11 +11,9 @@ I am a PhD candidate in Economics at the University of Pennsylvania.
 My research focuses on the economics in the market for IPv4 addresses and transition to the next technology.  
 
 **Keywords**:
-Industrial organization, asset pricing,  technology adoption
+Industrial organization, technology adoption, network effects, secondary markets 
 
 
-**Job Market Paper**
-
-"Price and frictions in the market for IPv4 addresses"
-
-*Abstract*: In this paper I study the evolution of prices and frictions in the market for IPv4 addresses. Each IPv4 address being a durable, homogenous resource has zero fundamental value once the standard changes from IPv4 to IPv6. Yet in the market a striking empirical feature has been the rising prices IPv4 prices. At the same IPv6 adoption has been lagging for over two decades. First I lay out the key empirical features of this industry, develop a dynamic model of firm behavior in the IPv4 market and IPv6 adoption decisions. I estimate the model parameters using simulated method of moments and predict rising price and IPv6 adoption pattern. In counterfactual simulations, I find that switching and adjustment costs raise prices and delay IPv6 adoption. I find that in the absence of network effects firms would adopt IPv6 almost immediately. 
+**Job Market Paper**: 
+"IPv4 address market and transition to the next protocol"
+**Abstract**: In this paper I study frictions in the market for IPv4 addresses - a market created to mitigate short term scarcity of IPv4 addresses as firms transitioned the next protocol - IPv6 addresses. I study the impact of adjustment and switching costs and network effects on prices and IPv6 transition. Collecting novel data, I lay out key empirical features of this industry and develop a dynamic model of firm behavior in the IPv4 market and IPv6 adoption. Next, I estimate the model parameters using simulated method of moments and use this to predict prices and IPv6 adoption. This model can explain the striking increase in prices observed as well as the delay in IPv6 adoption. I find that it would take 33 years to reach near complete IPv6 adoption. I also find that enterprise firms have 58\% higher per-unit switching costs and content provider firms 24\% higher compared to ISPs. In counterfactual simulations, I find that in the absence of switching and adjustment costs prices are lower and IPv6 adoption happens almost 20 years faster. I find that the producer surplus is 88\% higher than in the baseline. In the second counterfactual I find that in the absence of network effects firms would adopt IPv6 almost immediately whereas prices reach a peak and fall within three years. Producer surplus in this scenario is lower than the baseline by 1%.  
