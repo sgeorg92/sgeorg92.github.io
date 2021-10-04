@@ -32,4 +32,19 @@ knitr::include_graphics("image.png")
 **Job Market Paper**: 
 ***"IPv4 address market and transition to the next protocol"***
 
-**Abstract**: In this paper I study frictions in the market for IPv4 addresses - a market created to mitigate short term scarcity of IPv4 addresses as firms transitioned the next protocol - IPv6 addresses. I study the impact of adjustment and switching costs and network effects on prices and IPv6 transition. Collecting novel data, I lay out key empirical features of this industry and develop a dynamic model of firm behavior in the IPv4 market and IPv6 adoption. Next, I estimate the model parameters using simulated method of moments and use this to predict prices and IPv6 adoption. This model can explain the striking increase in prices observed as well as the delay in IPv6 adoption. I find that it would take 33 years to reach near complete IPv6 adoption. I also find that enterprise firms have 58\% higher per-unit switching costs and content provider firms 24\% higher compared to ISPs. In counterfactual simulations, I find that in the absence of switching and adjustment costs prices are lower and IPv6 adoption happens almost 20 years faster. I find that the producer surplus is 88\% higher than in the baseline. In the second counterfactual I find that in the absence of network effects firms would adopt IPv6 almost immediately whereas prices reach a peak and fall within three years. Producer surplus in this scenario is lower than the baseline by 1%.  
+**Abstract**: In this paper I study the market for internet addresses - a market created to mitigate short term
+scarcity of IPv4 addresses as firms transitioned to the next protocol. I analyze the inefficiencies that
+arise from the decentralized transition from IPv4 to IPv6. Inefficiencies arise due to the presence of
+adjustment costs, switching costs and network effects which are frictions in the market. Towards this
+end, I develop a dynamic model of firm behavior in the IPv4 market and IPv6 adoption. Then I collect a
+novel data to estimate the main parameters using simulated method of moments and use this to predict
+prices and IPv6 adoption. This model can explain the striking increase in prices observed and in the
+current environment near complete IPv6 adoption will take 33 years. I also find that enterprise firms
+(universities and companies that are mostly users) have 58% higher per-unit switching costs and content
+provider firms 24% higher compared to ISPs. In counterfactual simulations, I find that in the absence of
+switching and adjustment costs prices are lower and IPv6 adoption happens almost 20 years faster. I find
+that the producer surplus is 88% higher than in the baseline. In the second counterfactual I find that
+with inter-operable network effects across both protocols firms would adopt IPv6 almost immediately
+whereas prices reach a peak and fall within three years. Producer surplus in this scenario is lower than the
+baseline by 1%. In the third counterfactual I find the optimal adoption path that maximizes aggregate
+producer surplus and find that the surplus is higher than the baseline by 25%.
