@@ -2,5 +2,7 @@
 title: "cv"
 ---
 
+<font size="4">  
 
 You can find my CV [here](Sarah_George_Resume.pdf)
+</font>

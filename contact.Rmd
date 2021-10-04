@@ -1,15 +1,24 @@
 ---
 title: "Contact"
 ---
+<font size="3.7">  
 
-**Mailing address**
-Department of Economics 
-University of Pennsylvania 
+**Mailing address:**
+
+Department of Economics,
+
+Room 635, PCPSE, 
+
+133 South, 36th Street
+
 Philadelphia, PA 19104
 
-**Email address **
+**Email address:**
+
 sgeorg@sas.upenn.edu 
 
-**Phone**
+**Phone:**
+
 301-531-0163
 
+</font>
