@@ -1,5 +1,9 @@
 ---
 title: "Research"
+header-includes:
+   - \usepackage[default]{sourcesanspro}
+   - \usepackage[T1]{fontenc}
+mainfont: SourceSansPro
 ---
 <style>
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}

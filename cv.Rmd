@@ -1,5 +1,9 @@
 ---
 title: "cv"
+header-includes:
+   - \usepackage[default]{sourcesanspro}
+   - \usepackage[T1]{fontenc}
+mainfont: SourceSansPro
 ---
 
 <font size="4">  

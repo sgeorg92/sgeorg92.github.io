@@ -1,7 +1,10 @@
 ---
 title: "Teaching"
+header-includes:
+   - \usepackage[default]{sourcesanspro}
+   - \usepackage[T1]{fontenc}
+mainfont: SourceSansPro
 ---
-
 <style>
 div.grey { background-color:#fff5e6; border-radius: 5px; padding: 20px;}
 </style>
@@ -10,17 +13,17 @@ div.grey { background-color:#fff5e6; border-radius: 5px; padding: 20px;}
 
 **Department of Economics, University of Pennsylvania**
 
-Head teaching assistant (TA) for Econ001 (Introduction to Micro Economics), 2018 (Fall)-2021 (Spring)  
+Head TA for Econ001 (Introduction to Micro Economics), 2018 (Fall)-2021 (Spring)  
 
 TA for Econ001 (Introduction to Micro Economics), 2018 (Spring)
 
-TA for Econ101 (Intermediate Economics),2017 (Fall)
+TA for Econ101 (Intermediate Economics), 2017 (Fall)
 
 **Department for Economics, London School of Economics and Political Science**
 
-TA for Econ101 (Introductory Microeconomics) 2015 (Fall-Spring)
+TA for Econ101 (Introductory Microeconomics), 2015 (Fall-Spring)
 
-Nominated for the best teaching award at LSE.   
+Nominated for the best teaching award at LSE  
 
 </div>
 </font>

@@ -1,6 +1,10 @@
 ---
 title: "Sarah George"
 fontsize: 20pt
+header-includes:
+   - \usepackage[default]{sourcesanspro}
+   - \usepackage[T1]{fontenc}
+mainfont: SourceSansPro
 ---
 
 
@@ -11,7 +15,7 @@ div.grey { background-color:#fff5e6; border-radius: 5px; padding: 20px;}
 <div class = "row">
   
 <div class = "col-md-6">
-```{r out.width="400%",echo=FALSE}
+```{r fig.width=12, fig.height=16,echo=FALSE}
 knitr::include_graphics("image.png")
 ```
 </div>
