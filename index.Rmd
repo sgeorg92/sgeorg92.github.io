@@ -6,7 +6,9 @@ header-includes:
    - \usepackage[T1]{fontenc}
 mainfont: SourceSansPro
 ---
-<metaname="google-site-verification: google8a02a5f64290f461.html">
+
+
+<!-- <metaname="google-site-verification: google8a02a5f64290f461.html"> -->
 
 <style>
 div.grey { background-color:#fff5e6; border-radius: 5px; padding: 20px;}
